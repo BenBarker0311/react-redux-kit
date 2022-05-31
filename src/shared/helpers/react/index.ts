@@ -1,0 +1,1 @@
+export { getFieldWithComponent } from './getFieldWithComponent';
